@@ -50,7 +50,7 @@ instanota-landing/
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/instanota-landing.git
+   git clone https://github.com/aymanelwany/instanota-landing.git
    ```
 
 2. Navigate to the project folder:
@@ -68,7 +68,7 @@ This site is configured to be hosted on GitHub Pages:
 2. Scroll down to the GitHub Pages section
 3. Select the `main` branch as the source
 4. Wait a few minutes for the site to be deployed
-5. Access your site at `https://yourusername.github.io/instanota-landing/`
+5. Access your site at `https://aymanelwany.github.io/instanota-landing/`
 
 ## 📝 Customization
 
