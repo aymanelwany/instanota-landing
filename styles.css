@@ -163,9 +163,11 @@ img {
     text-align: center;
 }
 
-.hero-image img {
+.hero-image img, .hero-image video {
     max-height: 500px;
     filter: drop-shadow(0 10px 10px rgba(0, 0, 0, 0.2));
+    width: 100%;
+    object-fit: cover;
 }
 
 .hero h1 {
