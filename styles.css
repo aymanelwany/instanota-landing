@@ -165,9 +165,9 @@ img {
 
 .hero-image img, .hero-image video {
     max-height: 500px;
+    max-width: 300px; /* Added to constrain width for phone-like aspect ratio */
+    height: auto; /* Ensures aspect ratio is maintained */
     filter: drop-shadow(0 10px 10px rgba(0, 0, 0, 0.2));
-    width: 100%;
-    object-fit: cover;
 }
 
 .hero h1 {
